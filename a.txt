@@ -2,3 +2,4 @@ Checking git add .
 
 Adds some new things
 - add another
+- and another
