@@ -3,3 +3,5 @@ Checking git add .
 Adds some new things
 - add another
 - and another
+
+This change is made on Github
